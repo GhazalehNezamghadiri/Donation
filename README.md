@@ -9,3 +9,6 @@
 -Technologies Used : Html , css , 
 
 -How to reach me : with my [instagram](https://www.instagram.com/ghazale.ghadiri/?hl=en) and  [linkedin](https://www.linkedin.com/in/ghazaleh-nezamghadiri-06b626302/)
+
+![Image](https://github.com/user-attachments/assets/29279bdd-12a5-478c-80c0-c2311d11cbeb)
+![Image](https://github.com/user-attachments/assets/ee6d460c-0ca1-40af-9562-feb577cb57ba)
