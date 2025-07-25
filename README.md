@@ -1,5 +1,7 @@
 # Donation
 
+## Built a simple donation page with just HTML & CSS — clean and to the point
+
 -[Demo Project](https://ghazalehnezamghadiri.github.io/Donation/index1.html)
 
 -Developed by Ghazaleh Nezamghadiri
